@@ -5,13 +5,13 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>realtekhdaudio</id>
     <title>Realtek HD Audio Codec Driver</title>
-    <version>R2.79</version>
+    <version>2.79</version>
     <authors>http://www.realtek.com/about/</authors>
     <owners>angryhussord</owners>
     <summary>Realtek HD Audio code driver for Windows Vista, 7, 8, 8.1 and 10.</summary>
     <description>Audio drivers available for download from the Realtek website are general drivers for our audio ICs, and may not offer the customizations made by your system/motherboard manufacturer. To be sure you obtain the full features/customizations provided in your original audio product, please download the latest drivers from your system/motherboard manufacturer's website.
 </description>
-    <projectUrl>http://www.realtek.com/downloads/downloadsView.aspx?Langid=1&PNid=14&PFid=24&Level=4&Conn=3</projectUrl>
+    <projectUrl>http://www.realtek.com/downloads/</projectUrl>
     <tags>realtek audio hd audio codec driver drivers</tags>
     <copyright></copyright>
     <licenseUrl>http://www.logitech.com/en-us/footer/terms-of-use</licenseUrl>
